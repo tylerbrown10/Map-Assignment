@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+
+.Intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
